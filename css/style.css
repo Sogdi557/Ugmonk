@@ -283,8 +283,8 @@ section{
 .analog_sec{
 	color: #F7F7F7;
 	margin: 160px 90px;
-	padding-right: 755px;
-	width: 1124px;
+	padding-right: 530px;
+    width: 100%;
 	height: 204px;
 	line-height: 55px;
 }
@@ -295,6 +295,10 @@ section{
 	text-align: left;
 	padding: 2px;
 	word-break: normal;	
+}
+
+button{
+	color: #fff;
 }
 
 .btn_analog{
@@ -365,13 +369,16 @@ section{
 	width: calc(100% - 406px);
 }
 
+.info_shop{
+	background-color: #F8F6F2;
+}
 
 .sec_tit{
 	color: #1A1A1A;
 	font-size: 30px;
 	font-weight: 630;
 	justify-content: center;
-	margin: 135px 350px 45px;
+	margin: 100px 250px 45px;
 	line-height: 35px;
 }
 
